@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar-john
-- 👀 I’m interested in blockchain developing
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in software/cloud/security development
+- 🌱 I’m currently learning Solidity, Python
 - 💞️ I’m looking to collaborate on anything blockchain or dAapp related
 - 📫 How to reach me arjohnson@oakland.edu
 
